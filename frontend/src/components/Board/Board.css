@@ -1,0 +1,11 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+    margin: 20px auto;
+}
+
+.board-row {
+    display: flex;
+    width: 100%;
+}
